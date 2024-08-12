@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\C#\\Level_C\\Dictionary,SortedList\u0026Hashtable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBDE4DC-4C3D-4966-83EC-95BACEFE0471}|Dictionary,SortedList\u0026Hashtable\\Dictionary,SortedList\u0026Hashtable.csproj|d:\\coding\\c#\\level_c\\dictionary,sortedlist\u0026hashtable\\dictionary,sortedlist\u0026hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBDE4DC-4C3D-4966-83EC-95BACEFE0471}|Dictionary,SortedList\u0026Hashtable\\Dictionary,SortedList\u0026Hashtable.csproj|solutionrelative:dictionary,sortedlist\u0026hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Level_C\\Dictionary,SortedList\u0026Hashtable\\Dictionary,SortedList\u0026Hashtable\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary,SortedList\u0026Hashtable\\Program.cs",
+              "ToolTip": "D:\\Coding\\C#\\Level_C\\Dictionary,SortedList\u0026Hashtable\\Dictionary,SortedList\u0026Hashtable\\Program.cs",
+              "RelativeToolTip": "Dictionary,SortedList\u0026Hashtable\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T23:17:59.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
